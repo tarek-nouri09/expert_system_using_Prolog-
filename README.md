@@ -1,1 +1,1 @@
-# expert_system_using_Prolog-
+The system considers multiple characteristics of programming languages, including type, object-oriented nature, logic-based nature, complexity, purpose, and usage. This information is used to recommend suitable programming languages based on user input.
